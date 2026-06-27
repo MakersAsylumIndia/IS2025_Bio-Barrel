@@ -82,6 +82,15 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ---
 
+## [OSHWA Certification](https://certification.oshwa.org/list.html)
+
+[OSHW] IN000095 | Certified open source hardware | oshwa.org/cert
+
+<a href="https://certification.oshwa.org/in000095.html"><img src="/certification-mark-IN000095-stacked.png" width="300"/></a>
+
+---
+
+
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._
